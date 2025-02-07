@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/wilmington/</loc>
-		<lastmod>2025-02-06T01:39:45+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/high-point/</loc>
-		<lastmod>2025-02-06T01:39:45+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/winston-salem/</loc>
-		<lastmod>2025-02-06T01:39:44+00:00</lastmod>
+		<loc>/wilmington/</loc>
+		<lastmod>2025-02-07T00:11:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/fayetteville/</loc>
-		<lastmod>2025-02-06T01:39:44+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/cary/</loc>
-		<lastmod>2025-02-06T01:39:44+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/durham/</loc>
-		<lastmod>2025-02-06T01:39:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/kannapolis/</loc>
-		<lastmod>2025-02-06T01:39:43+00:00</lastmod>
+		<loc>/winston-salem/</loc>
+		<lastmod>2025-02-07T00:11:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/greensboro/</loc>
-		<lastmod>2025-02-06T01:39:43+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/durham/</loc>
+		<lastmod>2025-02-07T00:11:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/raleigh/</loc>
-		<lastmod>2025-02-06T01:39:42+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/goldboro/</loc>
-		<lastmod>2025-02-06T01:39:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/mooresville/</loc>
-		<lastmod>2025-02-06T01:39:41+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/asheville/</loc>
-		<lastmod>2025-02-06T01:39:41+00:00</lastmod>
+		<loc>/kannapolis/</loc>
+		<lastmod>2025-02-07T00:11:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/apex/</loc>
-		<lastmod>2025-02-06T01:39:41+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/burlington/</loc>
-		<lastmod>2025-02-06T01:39:40+00:00</lastmod>
+		<loc>/goldboro/</loc>
+		<lastmod>2025-02-07T00:11:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/mooresville/</loc>
+		<lastmod>2025-02-07T00:11:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/asheville/</loc>
+		<lastmod>2025-02-07T00:11:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/huntersville/</loc>
-		<lastmod>2025-02-06T01:39:40+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/indian-trail/</loc>
-		<lastmod>2025-02-06T01:39:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/gastonia/</loc>
-		<lastmod>2025-02-06T01:39:39+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/jacksonville/</loc>
-		<lastmod>2025-02-06T01:39:39+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/burlington/</loc>
+		<lastmod>2025-02-07T00:11:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/gastonia/</loc>
+		<lastmod>2025-02-07T00:11:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/concord/</loc>
-		<lastmod>2025-02-06T01:39:38+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/charlotte/</loc>
-		<lastmod>2025-02-06T01:39:38+00:00</lastmod>
+		<lastmod>2025-02-07T00:11:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
